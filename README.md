@@ -38,5 +38,8 @@ You can register one at https://console.developers.google.com/apis/dashboard.
 * Wait until a new video is rendered and it will automatically upload it!
 (It will also upload every remaining videos not uploaded at the start of the script!)
 
+## License
+Under **MIT** License.
+
 :)
 
