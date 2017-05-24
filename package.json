@@ -1,0 +1,22 @@
+{
+  "name": "myfavoritemusicyt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bug-killer": "^4.4.4",
+    "lien": "^3.0.1",
+    "ncp": "^2.0.0",
+    "node-watch": "^0.5.4",
+    "opn": "^5.0.0",
+    "pretty-bytes": "^4.0.2",
+    "r-json": "^1.2.7",
+    "request": "^2.81.0",
+    "youtube-api": "^2.0.8"
+  }
+}
