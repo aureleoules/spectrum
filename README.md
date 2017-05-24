@@ -30,7 +30,7 @@ You can register one at https://console.developers.google.com/apis/dashboard.
 * Download your credentials by clicking the download button next to your new API login. Save this file as `credentials.json` in the root of the project.
 
 ## How do I use the Script ?!
-* Open the `START.bat` and enter the SoundCloud URL for your desired music!
+* Open the `START.bat` and enter the SoundCloud URL of your desired music!
 * Wait and see !
 
 ## How do I use the YouTube uploader ?!
